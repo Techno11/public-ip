@@ -39,5 +39,3 @@ export async function run(): Promise<void> {
 interface IPResponse {
   ip: string;
 }
-
-run();
